@@ -37,4 +37,4 @@ Here's an overview of the project's structure:
 
 ## Authors
 
-Authors: **Naïm Lehbiben**
+**Naïm Lehbiben - naim.lehbiben@dauphine.eu**
